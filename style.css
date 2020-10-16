@@ -258,6 +258,8 @@ header a {
           height: auto;
           object-fit:cover;
       }
+      
+   
     #footer{
       background-color: #23232b;
       height: 20rem;
@@ -275,23 +277,18 @@ header a {
       color:#eef0ef;
     
     }
-    
     .dots{
       font-size: 2em;
       position:relative;
       bottom:2.5rem;
     }
-    
     .bar{
       font-size:3em;
       color:white;
       position:absolute;
       top:-2.8rem;
       left:2rem;
-    
-    
     }
-    
     .icon{
       font-size: 2em;
       color:white;
@@ -313,3 +310,4 @@ header a {
         height: 80vh;
       }
     }
+  
